@@ -1,5 +1,16 @@
 # QRT - Electricity Prices - 2023
 
+- This Project tackled the problem of predicting the change in Electricity Prices.
+- This Project is a competition sponsored by Qube Research Technologies.
+- The Details of the competition can be found here: https://challengedata.ens.fr/participants/challenges/97/
+- 6 Machine Learning Models were used and tested on Out of Sample Data. 
+- The Best Performance was by a LightGBM Model that resulted with a Score Metric of 27.49% Spearman Rank Correlation. 
+- This Score put the team's position at 77 out of total global submissions of 866 individuals and teams. 
+
+
+  ![image.png](GlobalPosition.png)
+
+
 ## Challenge Context
 
 Every day, a multitude of factors impact the price of electricity. These factors can vary from local weather conditions affecting electricity generation and demand to long-term phenomena like global warming. Geopolitical events, such as the war in Ukraine, may also influence the price of commodities, which are critical inputs in electricity generation. Additionally, each country relies on a unique energy mix, which can include nuclear, solar, hydro, gas, coal, and more.
